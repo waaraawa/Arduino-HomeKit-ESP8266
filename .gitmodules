@@ -1,0 +1,3 @@
+[submodule "examples/legacy/scheduler"]
+	path = examples/legacy/scheduler
+	url = git@github.com:waaraawa/Homekit_scheduler.git
